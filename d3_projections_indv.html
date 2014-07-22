@@ -34,7 +34,7 @@ d3.json("data/counties.json", function(error, us) {
   
     svg.select(".counties")
         .selectAll("path")
-        .data(topojson.mesh(us))
+        .data(topojson.feature(us, us.objects.counties).features)
         .enter().append("path")
         .attr("d",path)
 

@@ -1,6 +1,6 @@
 ###What's inside a shapefile?
 
-<pre>
+```
 ESRI Shapefile  
 
 Schema of a feature:
@@ -27,9 +27,7 @@ Schema of a feature:
                ]
 }
 
-
- </pre>
-
+```
  Note:
  Show the actual data below.
  http://localhost:8888/notebooks/gis_tools/gis_tools.ipynb

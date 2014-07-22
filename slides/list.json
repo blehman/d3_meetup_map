@@ -1,5 +1,4 @@
 ["index.md"
-,"intro.md"
 ,"shapefiles.md"
 ,"shapefiles_def.md"
 ,"shapefiles_inside.md"
@@ -7,4 +6,5 @@
 ,"map_build.md"
 ,"map_topics.md"
 ,"map_scales.md"
+,"map_projections.md"
 ]

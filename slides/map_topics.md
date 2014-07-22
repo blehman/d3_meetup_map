@@ -1,0 +1,3 @@
+###Choropleth topics
+*  scales
+*  projections  

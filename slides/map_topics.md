@@ -1,3 +1,3 @@
 ###Choropleth topics
 *  scales
-*  projections  
+*  geo data binding  

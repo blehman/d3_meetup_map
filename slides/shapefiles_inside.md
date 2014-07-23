@@ -28,6 +28,9 @@ Schema of a feature:
 }
 
 ```
- Note:
- Show the actual data below.
- http://localhost:8888/notebooks/gis_tools/gis_tools.ipynb
+Note:
+
+This shapefile divides the US into counties.
+
+Show the actual data below.
+http://localhost:8888/notebooks/gis_tools/gis_tools.ipynb
